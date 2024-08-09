@@ -1,0 +1,1 @@
+export { DEFAULT_DRAG_ZOOM } from './defaultDragZoomConfig'

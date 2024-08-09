@@ -1,0 +1,196 @@
+@import url("iconfont/tips/iconfont.css");
+
+.data-empty {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-color: rgba(255, 255, 255, 1);
+    color: #888;
+    font-size: 14px;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.data-empty .empty-img {
+    width: 173px;
+    height: 115px;
+}
+
+.data-empty .main-title {
+    margin-top: 24px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+    color: #000;
+}
+
+.data-empty .sub-title {
+    margin-top: 8px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.45);
+}
+
+.toolTip-tips-xlabel-wrap {
+    display: inline-block;
+    min-width: 136px;
+    max-width: 320px
+}
+
+.toolTip-tips-xlabel {
+    font-family: 'PingFang SC';
+    font-style: normal;
+    margin-bottom: 8px;
+    width: 100%;
+    text-align: left;
+    font-weight: 500;
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.85);
+}
+
+.toolTip-tips-xlabel-content {
+    color: rgba(0, 0, 0, 0.85);
+    margin-top: 8px;
+    font-style: normal;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.toolTip-tips-xlabel-content:nth-of-type(1) {
+    margin-top: 0;
+}
+/* 最大字数13个省略 */
+.toolTip-tips-xlabel-marker {
+    display: inline-block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    max-width: 200px;
+}
+/* 最小字数7个省略 */
+.toolTip-tips-xlabel-marker-min {
+    display: inline-block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    max-width: 120px;
+}
+
+.toolTip-tips-xlabel-value {
+    margin-left: 55px;
+    font-size: 12px;
+    font-weight: 500;
+    color: rgba(0, 0, 0, 0.65);
+    font-feature-settings: "tnum" on, "lnum" on;
+    word-break: break-all;
+
+    font-family: Inter,system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif;
+    font-size: 12px;
+    line-height: 20px;
+}
+
+.toolTip-tips-divider {
+    height: 1px;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.08);
+    margin: 8px 0;
+}
+
+.toolTip-tips-text {
+    text-align: left;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    max-width: 240px;
+    font-size: 12px;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.45);
+}
+
+.toolTip-tips-link-title {
+    text-align: left;
+    font-weight: 500;
+    margin-bottom: 8px;
+    font-size: 12px;
+}
+
+.toolTip-tips-link-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-decoration: none;
+    max-width: 320px;
+    color: rgba(0, 0, 0, 0.85);
+}
+
+.toolTip-tips-link-left {
+    display: flex;
+    justify-content: space-between;
+    overflow: hidden;
+    align-items: center;
+}
+
+.toolTip-tips-link-text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    font-family: 'Helvetica Neue'
+}
+
+.toolTip-tips-link-icon {
+    margin: 0 5px;
+}
+
+.toolTip-tips-link-right {
+    max-width: 300px;
+    text-align: right;
+    display: inline-block;
+    margin-left: 5px;
+    font-feature-settings: 'tnum' on, 'lnum' on;
+    font-family: Inter,system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif;
+    font-weight: 500;
+    color: rgba(0, 0, 0, 0.65);
+}
+
+.toolTip-tips-link-wrap {
+    font-size: 12px;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.85);
+    text-align: left;
+    margin-bottom: 2px;
+}
+
+.toolTip-tips-download {
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+    font-size: 14px;
+    justify-content: center;
+    height: 28px;
+    width: 130px;
+    color: #3C66FF;
+    cursor: pointer;
+    padding: 3px 12px;
+    background: rgba(0, 0, 0, 0.03);
+    border-radius: 4px;
+}
+
+.toolTip-tips-download-text {
+    display: inline-block;
+    margin-left: 8px
+}
+
+.toolTip-tips-download-icon{
+    width: 14px;
+    height: 14px;
+}

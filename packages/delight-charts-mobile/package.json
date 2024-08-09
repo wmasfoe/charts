@@ -1,0 +1,54 @@
+{
+  "name": "@{symbol}/delight-charts-mobile",
+  "version": "1.0.6",
+  "description": "移动端图表库",
+  "keywords": [
+    "移动端",
+    "delight",
+    "charts"
+  ],
+  "homepage": "",
+  "license": "ISC",
+  "main": "dist/delight-charts-mobile.umd.js",
+  "types": "dist/index.d.ts",
+  "module": "dist/delight-charts-mobile.es.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "publish": "npm run publish",
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "files": [
+    "dist",
+    "src",
+    "package.json"
+  ],
+  "sideEffects": [
+    "*.css"
+  ],
+  "maintainers": [
+    "feci"
+  ],
+  "dependencies": {
+    "@antv/f2": "^4.0.48",
+    "@popperjs/core": "^2.11.8",
+    "numerify": "^1.2.9"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-react-jsx": "^7.22.15",
+    "lodash": "^4.17.21",
+    "typescript": "^4.5.2",
+    "vue": "^3.2.25",
+    "vue-tsc": "^0.38.1"
+  },
+  "peerDependencies": {
+    "@antv/f2": "^4.0.48",
+    "lodash": "^4.17.21",
+    "vue": "^3.2.25"
+  }
+}

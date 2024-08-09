@@ -1,0 +1,30 @@
+{
+  // "extends": "../../tsconfig.json",
+    "compilerOptions": {
+      "target": "esnext",
+      "useDefineForClassFields": true,
+      "module": "esnext",
+      "moduleResolution": "node",
+      "noImplicitAny": true,
+      "strict": true,
+      "rootDir": ".",
+      "sourceMap": true,
+      "skipDefaultLibCheck": true,
+      "resolveJsonModule": true,
+      "isolatedModules": true,
+      "suppressImplicitAnyIndexErrors": true,
+      "esModuleInterop": true,
+      // lib 选项则指定了 TypeScript 编译器要包含在生成的 JavaScript 代码中的标准库文件。这决定了 TypeScript 编译器可以识别哪些内置对象，
+      // 例如 Array、Promise 等，并且可以使用这些内置对象的方法。
+      "lib": ["esnext", "dom"],
+      // 允许从没有设置默认导出的模块中默认导入
+      "allowSyntheticDefaultImports": true,
+      // 默认所有可见的"@types"包会在编译过程中被包含进来。 node_modules/@types文件夹下以及它们子文件夹下的所有包都是可见的；
+      // 如果指定了typeRoots，只有typeRoots下面的包才会被包含进来，如果指定了types，只有被列出来的包才会被包含进来，指定"types": []来禁用自动引入@types包。
+      "typeRoots": ["./types"],
+      "skipLibCheck": true,
+      "jsx": "react-jsx",
+      "jsxImportSource": "@antv/f2",
+    },
+    "include": ["src", "src/vue.d.ts", "demo"]
+  }

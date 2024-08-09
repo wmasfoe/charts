@@ -1,0 +1,15 @@
+{
+  "workspaces": [
+    "packages/*"
+  ],
+  "command": {
+    "version": {
+      "allowBranch": ["master"],
+      "message": "ci(release): publish",
+      "conventionalCommits": true,
+      "conventionalGraduate": true,
+      "ignoreChanges": ["docs/*", "mobile-docs/*"]
+    }
+  },
+  "version": "independent"
+}

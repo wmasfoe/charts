@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "useDefineForClassFields": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "noImplicitAny": true,
+    "strict": true,
+    "jsx": "preserve",
+    "rootDir": ".",
+    "sourceMap": true,
+    "skipDefaultLibCheck": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "esModuleInterop": true,
+    "lib": ["esnext", "dom"],
+    "typeRoots": ["./types"],
+    "skipLibCheck": true
+  },
+  "include": ["src", "src/vue.d.ts", "demo"]
+}

@@ -1,0 +1,24 @@
+{
+    "compilerOptions": {
+      "target": "ESNext",
+      "module": "ESNext",
+      "moduleResolution": "Node",
+      "resolveJsonModule": true,
+      "useDefineForClassFields": true,
+      "allowSyntheticDefaultImports": true,
+      "esModuleInterop": true,
+      "forceConsistentCasingInFileNames": true,
+      "strict": true,
+      "noImplicitAny": false,
+      "skipLibCheck": true,
+      "lib": ["WebWorker", "ESNext", "DOM"],
+      "paths": { // 设置引用路径的别名
+        "delight-charts/*": ["../packages/delight-charts/*"],
+        "~/*": ["./.vitepress/vitepress/*"]
+      },
+      "types": ["../typings/components"],
+      "jsx": "preserve"
+    },
+    "include": ["**/*", ".vitepress/**/*"],
+    "exclude": ["node_modules"]
+  }

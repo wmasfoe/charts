@@ -28,6 +28,8 @@
     "package.json"
   ],
   "dependencies": {
+    "@vue/babel-preset-jsx": "^1.4.0",
+    "@vue/runtime-dom": "^3.2.38",
     "deepmerge": "^4.2.2",
     "numerify": "^1.2.9"
   },

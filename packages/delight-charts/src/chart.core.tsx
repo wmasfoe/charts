@@ -311,7 +311,7 @@ export function generateChart(name: string, getChartOptions: GetChartOptions, op
           );
         }
 
-        if ((isEmpty(usingDimensions) || isEmpty(usingMetrics)) && !['WordCloud', 'Map', 'Radar','Gauge', 'Bullet'].includes(name)) {
+        if ((isEmpty(usingDimensions) || isEmpty(usingMetrics)) && !['WordCloud', 'Map', 'Radar', 'Gauge', 'Bullet'].includes(name)) {
           console.warn("dimensions 与 metrics 需要同时存在");
           // 如果维度或指标没有的话，则使用chartConfig.series
           usingData.length = 0;
@@ -383,7 +383,7 @@ export function generateChart(name: string, getChartOptions: GetChartOptions, op
           seriesField: props.seriesField,
         };
 
-        if(name === 'SankeyChart') {
+        if (name === 'SankeyChart') {
           usingChartConfig.chartLinks = isEmpty(links) ? props.chartConfig?.chartLinks : links
         }
 
@@ -414,7 +414,7 @@ export function generateChart(name: string, getChartOptions: GetChartOptions, op
           usingChartConfig,
           extra
         );
-        if(props.theme === delightThemeName){
+        if (props.theme === delightThemeName) {
           chartOptions.color = chartColor.value
         }
         _chart.value?.setOption(chartOptions, props.opts);
@@ -538,7 +538,7 @@ export function generateChart(name: string, getChartOptions: GetChartOptions, op
         });
         setOption(props.chartData);
         createEventProxy();
-        if(legendBind.value) {
+        if (legendBind.value) {
           return;
         }
         _chart.value?.on('legendselectchanged', function (obj: any) {
@@ -547,7 +547,7 @@ export function generateChart(name: string, getChartOptions: GetChartOptions, op
           const toggledSelected = { ...obj?.selected }
 
           // 点击图例熄灭
-          if(props.chartConfig?.legend?.legendMode) {
+          if (props.chartConfig?.legend?.legendMode) {
             changeMainTitle(toggledSelected)
             emit('legendSelectChanged', toggledSelected)
           } else {
@@ -600,23 +600,23 @@ export function generateChart(name: string, getChartOptions: GetChartOptions, op
 
           const sankeyClickHighlight = sankeyHighlight();
           const bubbleClickHighlight = createBubbleHighlight(_chart, { originChartData: reactiveChartData, dimensions: props.dimensions, revertable: props.chartConfig.revertable });
-          ;(_chart.value as any).on('click', (e: any) => {
+          ; (_chart.value as any).on('click', (e: any) => {
             let data: any = []
             let str: string = ''
             switch (e.seriesType) {
               case 'wordCloud':
                 const wordSorts = props.chartData.sort((a: any, b: any) => b.value - a.value);
                 data = wordSorts.map((i: any, index: number) => ({
-                    ...i,
-                    textStyle: {
-                      ...(i?.textStyle || {}),
-                      opacity:
-                        clickIndex.value === e.dataIndex
-                          ? 1
-                          : index === e.dataIndex
+                  ...i,
+                  textStyle: {
+                    ...(i?.textStyle || {}),
+                    opacity:
+                      clickIndex.value === e.dataIndex
+                        ? 1
+                        : index === e.dataIndex
                           ? 1
                           : 0.3,
-                    },
+                  },
                 }))
                 break
               case 'bar':
@@ -741,7 +741,7 @@ export function generateChart(name: string, getChartOptions: GetChartOptions, op
                   highlightOpacityConfig: highlight,
                   lowlightOpacityConfig: lowlight,
                 })
-                setOption(newOptions.nodes, {links: newOptions.links})
+                setOption(newOptions.nodes, { links: newOptions.links })
                 return newOptions
               default:
                 break
@@ -834,8 +834,8 @@ export function generateChart(name: string, getChartOptions: GetChartOptions, op
 
       onMounted(async () => {
         if (typeof window !== 'undefined') mounted.value = true;
-        if(props.renderType === 'svg') {
-          const  { SVGRenderer }  = await import('echarts/renderers')
+        if (props.renderType === 'svg') {
+          const { SVGRenderer } = await import('echarts/renderers')
           echarts.use(SVGRenderer)
         }
         await init();
@@ -865,7 +865,7 @@ export function generateChart(name: string, getChartOptions: GetChartOptions, op
           padding: '0px',
         }
         if (+props.maxHeight && (+props.height > +props.maxHeight)) {
-          style =  {
+          style = {
             ...style,
             'overflow-y': 'scroll'
           }
@@ -879,36 +879,31 @@ export function generateChart(name: string, getChartOptions: GetChartOptions, op
         return style
       })
 
-      return () =>
-        h(
-          'div',
+      return () => <>
+        <div style={containerStyle.value} className={props.cssClass}>
+          <DrillBreadcrumb
+            style={{ display: props?.drillBreadcrumbConfig?.isShowDrillBreadcrumb ? '' : 'none' }}
+            drillBreadcrumbConfig={props?.drillBreadcrumbConfig}
+            onSelectBreadcrumb={(breadItem = { title: '', id: '' }) => { emit('selectBreadcrumb', breadItem) }}
+          ></DrillBreadcrumb>
           {
-            style: containerStyle.value,
-            class: props.cssClass,
-          },
-          [
-            h(DrillBreadcrumb, {
-              style: { display: props?.drillBreadcrumbConfig?.isShowDrillBreadcrumb ? '' : 'none' },
-              drillBreadcrumbConfig: props?.drillBreadcrumbConfig,
-              onSelectBreadcrumb: (breadItem = { title: '', id: '' }) => { emit('selectBreadcrumb', breadItem) }
-            }),
             isDataEmpty.value
-              ? h(DataEmpty, {
-                style: { ...canvasStyle.value },
-                emptyImgUrl: props.dataEmptyConfig?.emptyImgUrl,
-                emptyTitle: props.dataEmptyConfig?.emptyTitle,
-                emptySubTitle: props.dataEmptyConfig?.emptySubTitle,
-              })
-              : h('div', {
-                ref: canvasEl,
-                devicePixelRatio: 2,
-                style: { ...canvasStyle.value },
-              }),
-            h(DataLoading, {
-              style: { display: props.isLoading ? '' : 'none' },
-            }),
-          ]
-        );
+              ? <DataEmpty
+                style={canvasStyle.value}
+                emptyImgUrl={props.dataEmptyConfig?.emptyImgUrl}
+                emptyTitle={props.dataEmptyConfig?.emptyTitle}
+                emptySubTitle={props.dataEmptyConfig?.emptySubTitle}
+              />
+              : <div
+                ref={canvasEl}
+                devicePixelRatio={2}
+                style={canvasStyle.value}
+              ></div>
+          }
+
+          <DataLoading style={{ display: props.isLoading ? '' : 'none' }}></DataLoading>
+        </div>
+      </>
     },
   });
 }

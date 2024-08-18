@@ -22,7 +22,7 @@ import { defineComponent, ref, watch, PropType, computed, nextTick, onMounted } 
 import { isNil } from 'lodash'
 import {defaultBubbleGridConfig} from '../../const/defaultBubbleConfig'
 import Tooltip from './Tooltip.vue'
-import { generateChart } from '../../chart.core';
+import { generateChart } from '../../chart.core.tsx';
 import { bubble } from './getOptions';
 
 const BubbleChart = /* #__PURE__ */ generateChart('BubbleChart', bubble, {

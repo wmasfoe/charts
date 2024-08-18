@@ -37,6 +37,8 @@
   "dependencies": {
     "@antv/f2": "^4.0.48",
     "@popperjs/core": "^2.11.8",
+    "@vue/babel-preset-jsx": "^1.4.0",
+    "@vue/runtime-dom": "^3.2.38",
     "numerify": "^1.2.9"
   },
   "devDependencies": {

@@ -62,7 +62,7 @@ function getViteConfig(opts: {
     fs.outputFile(
       join(config.build!.outDir!, `package.json`),
       JSON.stringify({
-        name: `@{symbol}/delight-charts/${name}`,
+        name: `@dx/delight-charts/${name}`,
         main: "index.umd.js",
         module: "index.es.js",
         types: `packages/${name}/index.d.ts`,

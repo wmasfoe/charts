@@ -1,5 +1,5 @@
 # Delight Charts Mobile doc
-Delight Charts Mobile doc因为需要识别jsx语法，需用使用@babel/plugin-transform-react-jsx插件，babel插件在node端不支持top level returns, 导致doc build ci报错，详见https://github.com/babel/babel/issues/1298，故在doc里面引入打包好的@{symbol}/delight-charts-mobile来避免源代码jsx语法导致的问题
+Delight Charts Mobile doc因为需要识别jsx语法，需用使用@babel/plugin-transform-react-jsx插件，babel插件在node端不支持top level returns, 导致doc build ci报错，详见https://github.com/babel/babel/issues/1298，故在doc里面引入打包好的@dx/delight-charts-mobile来避免源代码jsx语法导致的问题
 
 
 # Dev Develop
@@ -26,11 +26,11 @@ pnpm run dev
     if (process.env.NODE_ENV !== 'production') {
         alias.push(
             {
-                find: /^@{symbol}\/delight-charts-mobile\/dist\/style.css$/,
+                find: /^@dx\/delight-charts-mobile\/dist\/style.css$/,
                 replacement: path.resolve(projRoot, 'packages/delight-charts-mobile/src/style.css'),
             },
             {
-                find: /^@{symbol}\/delight-charts-mobile$/,
+                find: /^@dx\/delight-charts-mobile$/,
                 replacement: path.resolve(projRoot, 'packages/delight-charts-mobile/src/index.ts'),
             },
         )

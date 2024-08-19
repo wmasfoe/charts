@@ -46,7 +46,7 @@ export const getConfig = (opts: { base?: string; config?: UserConfig; entryName?
       emptyOutDir: true, // don't clean the ouput when build the mini version
       lib: {
         entry: join(PATHS.DELIGHT_CHART_MOBILE, "src/index.ts"),
-        name: "@{symbol}/delight-charts-mobile",
+        name: "@dx/delight-charts-mobile",
         fileName: (format) => `delight-charts-mobile.${format}.js`,
       },
       rollupOptions: {

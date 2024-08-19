@@ -1,6 +1,6 @@
 <script lang="ts" setup>
 import { ref, computed, watch, CSSProperties } from 'vue'
-import { colors, typography } from '@{symbol}/reds-h5-style/src'
+import { colors, typography } from '@dx/reds-h5-style/src'
 import { StatisticCardRate, DataType, ChartConfig } from '../../interface/indicatorCard'
 import Tag from './components/Tag.vue'
 import Tooltip from "./components/Tooltip.vue";

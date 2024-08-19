@@ -22,11 +22,11 @@ const head: any[] = [
 if (process.env.NODE_ENV !== 'production') {
     alias.push(
         {
-            find: /^@{symbol}\/delight-charts\/dist\/style.css$/,
+            find: /^@dx\/delight-charts\/dist\/style.css$/,
             replacement: path.resolve(projRoot, 'packages/delight-charts/src/style.css'),
         },
         {
-            find: /^@{symbol}\/delight-charts$/,
+            find: /^@dx\/delight-charts$/,
             replacement: path.resolve(projRoot, 'packages/delight-charts/src/index.ts'),
         },
     )
@@ -92,7 +92,7 @@ export default defineConfig({
             // chunkSizeWarningLimit: Infinity
         },
         ssr: {
-            noExternal: ['echarts', '@{symbol}/delight-charts'],
+            noExternal: ['echarts', '@dx/delight-charts'],
         },
         plugins: [
             vueJsx()

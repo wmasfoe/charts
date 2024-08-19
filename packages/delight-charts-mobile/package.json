@@ -1,5 +1,5 @@
 {
-  "name": "@{symbol}/delight-charts-mobile",
+  "name": "@dx/delight-charts-mobile",
   "version": "1.0.6",
   "description": "移动端图表库",
   "keywords": [

@@ -1,19 +1,19 @@
 # 快速上手
 
-## 安装 `@{symbol}/delight-charts`
+## 安装 `@dx/delight-charts`
 
 ```bash
 # 使用npm
-$ npm i @{symbol}/delight-charts
+$ npm i @dx/delight-charts
 
 # 使用yarn
-$ yarn add @{symbol}/delight-charts
+$ yarn add @dx/delight-charts
 
 # 使用pnpm
-$ pnpm add @{symbol}/delight-charts
+$ pnpm add @dx/delight-charts
 ```
 
-## 引入`@{symbol}/delight-charts`
+## 引入`@dx/delight-charts`
 
 如果使用 Vue 默认的模板语法，需要注册组件后方可使用，有如下三种方式注册组件：
 
@@ -21,22 +21,22 @@ $ pnpm add @{symbol}/delight-charts
 
 ```javascript
 import { createApp } from 'vue'
-import DelightCharts from '@{symbol}/delight-charts'
-import '@{symbol}/delight-charts/dist/style.css';
+import DelightCharts from '@dx/delight-charts'
+import '@dx/delight-charts/dist/style.css';
 import App from './App.vue'
 
 const app = createApp(App)  
 
 app.use(DelightCharts).mount('#app')
 ```
-以上代码便完成了 `@{symbol}/delight-charts` 的全局注册。需要注意的是，样式文件需要单独引入。
+以上代码便完成了 `@dx/delight-charts` 的全局注册。需要注意的是，样式文件需要单独引入。
 
 **按需引入**
 
 ```javascript
 import { createApp } from 'vue';
-import { Bar, Line } from '@{symbol}/delight-charts'
-import '@{symbol}/delight-charts/dist/style.css';
+import { Bar, Line } from '@dx/delight-charts'
+import '@dx/delight-charts/dist/style.css';
 import App from './App';
 
 const app = createApp(App);
@@ -55,7 +55,7 @@ app.use(Bar).use(Line).mount('#app');
 </template>
 
 <script>
-  import { Bar } from '@{symbol}/delight-charts'
+  import { Bar } from '@dx/delight-charts'
 
   export default {
     components: {

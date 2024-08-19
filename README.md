@@ -37,3 +37,7 @@ pnpm docs:dev
 ```shell
 pnpm build:doc
 ```
+
+
+build 使用 v18.18.2
+docs:dev 使用 18.20.4

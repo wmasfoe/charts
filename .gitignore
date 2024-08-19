@@ -31,3 +31,4 @@ dist-ssr
 package-lock.json
 
 docs/.vitepress/.temp/
+docs/.vitepress/cache/deps/

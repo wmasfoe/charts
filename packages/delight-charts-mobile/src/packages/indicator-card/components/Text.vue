@@ -8,7 +8,7 @@
 </template>
 <script setup lang="ts">
 import { computed } from 'vue'
-import { colors, typography } from '@{symbol}/reds-h5-style/src'
+import { colors, typography } from '@dx/reds-h5-style/src'
 
 const props = defineProps({
   tag: {

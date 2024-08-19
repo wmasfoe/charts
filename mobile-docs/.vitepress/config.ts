@@ -24,11 +24,11 @@ if (process.env.NODE_ENV !== 'production') {
     // 注释1, 调试本地文档请放开
     // alias.push(
     //     {
-    //         find: /^@{symbol}\/delight-charts-mobile\/dist\/style.css$/,
+    //         find: /^@dx\/delight-charts-mobile\/dist\/style.css$/,
     //         replacement: path.resolve(projRoot, 'packages/delight-charts-mobile/src/style.css'),
     //     },
     //     {
-    //         find: /^@{symbol}\/delight-charts-mobile$/,
+    //         find: /^@dx\/delight-charts-mobile$/,
     //         replacement: path.resolve(projRoot, 'packages/delight-charts-mobile/src/index.ts'),
     //     },
     // )
@@ -94,7 +94,7 @@ export default defineConfig({
             // chunkSizeWarningLimit: Infinity
         },
         ssr: {
-            noExternal: ['@antv/f2', '@{symbol}/delight-charts-mobile'],
+            noExternal: ['@antv/f2', '@dx/delight-charts-mobile'],
         },
         plugins: [
             // 注释2, 调试本地文档请放开

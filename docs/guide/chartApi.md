@@ -2442,7 +2442,7 @@ const chartData = ref([
 用法：
 
 ```ts
-import { useLabelFormat } from '@{symbol}/delight-charts';
+import { useLabelFormat } from '@dx/delight-charts';
 ```
 
 类型定义:

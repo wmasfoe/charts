@@ -3,11 +3,11 @@ import './styles/index.css'
 import VPApp from './components/VPApp.vue'
 import VPNotFound from './components/VPNotFound.vue'
 // @ts-ignore
-import '@{symbol}/delight-charts/dist/style.css'
+import '@dx/delight-charts/dist/style.css'
 import { Theme } from 'vitepress'
 import { withConfigProvider } from './composables/config'
 // @ts-ignore
-import DelightCharts, { useLabelFormat } from '@{symbol}/delight-charts'
+import DelightCharts, { useLabelFormat } from '@dx/delight-charts'
 
 console.log(4444444, DelightCharts)
 import { vuePlugin } from "./plugins/mdx";

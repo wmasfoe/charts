@@ -88,7 +88,7 @@
 <script setup lang="ts">
 import { ref, toRefs, watch, computed } from "vue";
 import "./popover.css";
-// import Tooltip from "@{symbol}/delight/components/Popover/Tooltip";
+// import Tooltip from "@dx/delight/components/Popover/Tooltip";
 import MainIcon from "../../assets/MainIcon.png";
 import SecondaryIcon from "../../assets/SecondaryIcon.png";
 import Help from "../../assets/Help.png";

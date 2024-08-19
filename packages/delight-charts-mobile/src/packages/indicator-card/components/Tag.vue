@@ -3,7 +3,7 @@
 </template>
 <script lang="ts" setup>
   import { computed } from 'vue'
-  import { colors } from '@{symbol}/reds-h5-style/src'
+  import { colors } from '@dx/reds-h5-style/src'
   
   const props = defineProps({
     name: {

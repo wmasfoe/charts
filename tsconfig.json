@@ -10,6 +10,7 @@
     "jsx": "preserve",
     "jsxFactory": "h",
     "jsxFragmentFactory": "Fragment",
+    "jsxImportSource": "vue",
     "sourceMap": true,
     "skipDefaultLibCheck": true,
     "allowSyntheticDefaultImports": true,

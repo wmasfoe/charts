@@ -18,7 +18,7 @@
 
 <script setup lang="ts">
 import { ref } from 'vue'
-import { Line, Bar, Pie, Histogram, Circle } from '@{symbol}/delight-charts';
+import { Line, Bar, Pie, Histogram, Circle } from '@dx/delight-charts';
 
 const isLoading = ref(true)
 setTimeout(() => {

@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [0.1.97](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.96...@{symbol}/delight-charts@0.1.97) (2024-01-23)
+## [0.1.97](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.96...@dx/delight-charts@0.1.97) (2024-01-23)
 
 
 ### Bug Fixes
@@ -14,7 +14,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.96](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.95...@{symbol}/delight-charts@0.1.96) (2024-01-23)
+## [0.1.96](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.95...@dx/delight-charts@0.1.96) (2024-01-23)
 
 
 ### Bug Fixes
@@ -25,7 +25,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.95](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.94...@{symbol}/delight-charts@0.1.95) (2024-01-06)
+## [0.1.95](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.94...@dx/delight-charts@0.1.95) (2024-01-06)
 
 
 ### Bug Fixes
@@ -41,7 +41,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.94](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.93...@{symbol}/delight-charts@0.1.94) (2023-12-20)
+## [0.1.94](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.93...@dx/delight-charts@0.1.94) (2023-12-20)
 
 
 ### Bug Fixes
@@ -52,7 +52,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.93](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.92...@{symbol}/delight-charts@0.1.93) (2023-12-19)
+## [0.1.93](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.92...@dx/delight-charts@0.1.93) (2023-12-19)
 
 
 ### Features
@@ -63,7 +63,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.92](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.91...@{symbol}/delight-charts@0.1.92) (2023-12-18)
+## [0.1.92](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.91...@dx/delight-charts@0.1.92) (2023-12-18)
 
 
 ### Bug Fixes
@@ -80,7 +80,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.91](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.90...@{symbol}/delight-charts@0.1.91) (2023-12-13)
+## [0.1.91](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.90...@dx/delight-charts@0.1.91) (2023-12-13)
 
 
 ### Features
@@ -91,7 +91,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.90](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.89...@{symbol}/delight-charts@0.1.90) (2023-12-04)
+## [0.1.90](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.89...@dx/delight-charts@0.1.90) (2023-12-04)
 
 
 ### Features
@@ -102,7 +102,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.89](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.88...@{symbol}/delight-charts@0.1.89) (2023-11-27)
+## [0.1.89](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.88...@dx/delight-charts@0.1.89) (2023-11-27)
 
 
 ### Features
@@ -113,7 +113,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.88](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.87...@{symbol}/delight-charts@0.1.88) (2023-11-24)
+## [0.1.88](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.87...@dx/delight-charts@0.1.88) (2023-11-24)
 
 
 ### Bug Fixes
@@ -129,7 +129,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.87](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.86...@{symbol}/delight-charts@0.1.87) (2023-11-18)
+## [0.1.87](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.86...@dx/delight-charts@0.1.87) (2023-11-18)
 
 
 ### Features
@@ -140,7 +140,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.86](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.85...@{symbol}/delight-charts@0.1.86) (2023-11-10)
+## [0.1.86](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.85...@dx/delight-charts@0.1.86) (2023-11-10)
 
 
 ### Features
@@ -151,15 +151,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.85](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.84...@{symbol}/delight-charts@0.1.85) (2023-11-07)
+## [0.1.85](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.84...@dx/delight-charts@0.1.85) (2023-11-07)
 
-**Note:** Version bump only for package @{symbol}/delight-charts
-
-
+**Note:** Version bump only for package @dx/delight-charts
 
 
 
-## [0.1.84](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.83...@{symbol}/delight-charts@0.1.84) (2023-11-07)
+
+
+## [0.1.84](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.83...@dx/delight-charts@0.1.84) (2023-11-07)
 
 
 ### Bug Fixes
@@ -171,7 +171,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.83](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.82...@{symbol}/delight-charts@0.1.83) (2023-11-01)
+## [0.1.83](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.82...@dx/delight-charts@0.1.83) (2023-11-01)
 
 
 ### Features
@@ -183,7 +183,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.82](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.81...@{symbol}/delight-charts@0.1.82) (2023-10-23)
+## [0.1.82](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.81...@dx/delight-charts@0.1.82) (2023-10-23)
 
 
 ### Bug Fixes
@@ -194,7 +194,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.81](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.80...@{symbol}/delight-charts@0.1.81) (2023-10-17)
+## [0.1.81](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.80...@dx/delight-charts@0.1.81) (2023-10-17)
 
 
 ### Bug Fixes
@@ -210,7 +210,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.80](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.79...@{symbol}/delight-charts@0.1.80) (2023-09-19)
+## [0.1.80](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.79...@dx/delight-charts@0.1.80) (2023-09-19)
 
 
 ### Bug Fixes
@@ -222,7 +222,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.79](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.78...@{symbol}/delight-charts@0.1.79) (2023-09-18)
+## [0.1.79](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.78...@dx/delight-charts@0.1.79) (2023-09-18)
 
 
 ### Bug Fixes
@@ -233,7 +233,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.78](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.77...@{symbol}/delight-charts@0.1.78) (2023-09-13)
+## [0.1.78](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.77...@dx/delight-charts@0.1.78) (2023-09-13)
 
 
 ### Bug Fixes
@@ -244,7 +244,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.77](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.76...@{symbol}/delight-charts@0.1.77) (2023-09-12)
+## [0.1.77](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.76...@dx/delight-charts@0.1.77) (2023-09-12)
 
 
 ### Features
@@ -255,7 +255,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.76](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.75...@{symbol}/delight-charts@0.1.76) (2023-09-09)
+## [0.1.76](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.75...@dx/delight-charts@0.1.76) (2023-09-09)
 
 
 ### Features
@@ -266,7 +266,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.75](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.74...@{symbol}/delight-charts@0.1.75) (2023-09-06)
+## [0.1.75](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.74...@dx/delight-charts@0.1.75) (2023-09-06)
 
 
 ### Bug Fixes
@@ -277,7 +277,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.74](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.73...@{symbol}/delight-charts@0.1.74) (2023-09-05)
+## [0.1.74](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.73...@dx/delight-charts@0.1.74) (2023-09-05)
 
 
 ### Bug Fixes
@@ -288,7 +288,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.73](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.72...@{symbol}/delight-charts@0.1.73) (2023-09-02)
+## [0.1.73](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.72...@dx/delight-charts@0.1.73) (2023-09-02)
 
 
 ### Bug Fixes
@@ -304,7 +304,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.72](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.71...@{symbol}/delight-charts@0.1.72) (2023-09-01)
+## [0.1.72](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.71...@dx/delight-charts@0.1.72) (2023-09-01)
 
 
 ### Bug Fixes
@@ -315,7 +315,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.71](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.70...@{symbol}/delight-charts@0.1.71) (2023-08-31)
+## [0.1.71](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.70...@dx/delight-charts@0.1.71) (2023-08-31)
 
 
 ### Bug Fixes
@@ -332,7 +332,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.70](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.69...@{symbol}/delight-charts@0.1.70) (2023-08-29)
+## [0.1.70](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.69...@dx/delight-charts@0.1.70) (2023-08-29)
 
 
 ### Bug Fixes
@@ -349,7 +349,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.69](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.68...@{symbol}/delight-charts@0.1.69) (2023-08-28)
+## [0.1.69](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.68...@dx/delight-charts@0.1.69) (2023-08-28)
 
 
 ### Bug Fixes
@@ -361,7 +361,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.68](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.67...@{symbol}/delight-charts@0.1.68) (2023-08-19)
+## [0.1.68](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.67...@dx/delight-charts@0.1.68) (2023-08-19)
 
 
 ### Features
@@ -372,7 +372,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.67](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.66...@{symbol}/delight-charts@0.1.67) (2023-08-04)
+## [0.1.67](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.66...@dx/delight-charts@0.1.67) (2023-08-04)
 
 
 ### Features
@@ -383,7 +383,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.66](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.65...@{symbol}/delight-charts@0.1.66) (2023-07-26)
+## [0.1.66](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.65...@dx/delight-charts@0.1.66) (2023-07-26)
 
 
 ### Features
@@ -394,7 +394,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.65](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.64...@{symbol}/delight-charts@0.1.65) (2023-07-05)
+## [0.1.65](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.64...@dx/delight-charts@0.1.65) (2023-07-05)
 
 
 ### Bug Fixes
@@ -405,7 +405,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.64](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.63...@{symbol}/delight-charts@0.1.64) (2023-07-05)
+## [0.1.64](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.63...@dx/delight-charts@0.1.64) (2023-07-05)
 
 
 ### Features
@@ -417,7 +417,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.63](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.62...@{symbol}/delight-charts@0.1.63) (2023-07-03)
+## [0.1.63](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.62...@dx/delight-charts@0.1.63) (2023-07-03)
 
 
 ### Bug Fixes
@@ -428,7 +428,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.62](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.61...@{symbol}/delight-charts@0.1.62) (2023-07-03)
+## [0.1.62](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.61...@dx/delight-charts@0.1.62) (2023-07-03)
 
 
 ### Features
@@ -439,7 +439,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.61](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.60...@{symbol}/delight-charts@0.1.61) (2023-06-27)
+## [0.1.61](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.60...@dx/delight-charts@0.1.61) (2023-06-27)
 
 
 ### Features
@@ -450,7 +450,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.60](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.59...@{symbol}/delight-charts@0.1.60) (2023-06-08)
+## [0.1.60](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.59...@dx/delight-charts@0.1.60) (2023-06-08)
 
 
 ### Features
@@ -461,7 +461,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.59](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.58...@{symbol}/delight-charts@0.1.59) (2023-05-20)
+## [0.1.59](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.58...@dx/delight-charts@0.1.59) (2023-05-20)
 
 
 ### Features
@@ -472,7 +472,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.58](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.57...@{symbol}/delight-charts@0.1.58) (2023-05-18)
+## [0.1.58](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.57...@dx/delight-charts@0.1.58) (2023-05-18)
 
 
 ### Features
@@ -483,7 +483,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.57](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.56...@{symbol}/delight-charts@0.1.57) (2023-05-12)
+## [0.1.57](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.56...@dx/delight-charts@0.1.57) (2023-05-12)
 
 
 ### Bug Fixes
@@ -494,7 +494,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.56](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.55...@{symbol}/delight-charts@0.1.56) (2023-05-12)
+## [0.1.56](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.55...@dx/delight-charts@0.1.56) (2023-05-12)
 
 
 ### Features
@@ -505,7 +505,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.55](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.54...@{symbol}/delight-charts@0.1.55) (2023-05-09)
+## [0.1.55](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.54...@dx/delight-charts@0.1.55) (2023-05-09)
 
 
 ### Features
@@ -516,7 +516,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.54](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.53...@{symbol}/delight-charts@0.1.54) (2023-05-08)
+## [0.1.54](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.53...@dx/delight-charts@0.1.54) (2023-05-08)
 
 
 ### Features
@@ -527,7 +527,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.53](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.52...@{symbol}/delight-charts@0.1.53) (2023-05-05)
+## [0.1.53](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.52...@dx/delight-charts@0.1.53) (2023-05-05)
 
 
 ### Bug Fixes
@@ -538,7 +538,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.52](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.51...@{symbol}/delight-charts@0.1.52) (2023-04-24)
+## [0.1.52](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.51...@dx/delight-charts@0.1.52) (2023-04-24)
 
 
 ### Features
@@ -549,7 +549,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.51](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.50...@{symbol}/delight-charts@0.1.51) (2023-04-13)
+## [0.1.51](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.50...@dx/delight-charts@0.1.51) (2023-04-13)
 
 
 ### Bug Fixes
@@ -565,7 +565,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.50](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.49...@{symbol}/delight-charts@0.1.50) (2023-04-11)
+## [0.1.50](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.49...@dx/delight-charts@0.1.50) (2023-04-11)
 
 
 ### Bug Fixes
@@ -576,7 +576,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.49](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.48...@{symbol}/delight-charts@0.1.49) (2023-04-04)
+## [0.1.49](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.48...@dx/delight-charts@0.1.49) (2023-04-04)
 
 
 ### Features
@@ -587,7 +587,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.48](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.47...@{symbol}/delight-charts@0.1.48) (2023-04-03)
+## [0.1.48](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.47...@dx/delight-charts@0.1.48) (2023-04-03)
 
 
 ### Bug Fixes
@@ -603,7 +603,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.47](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.46...@{symbol}/delight-charts@0.1.47) (2023-03-27)
+## [0.1.47](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.46...@dx/delight-charts@0.1.47) (2023-03-27)
 
 
 ### Bug Fixes
@@ -619,7 +619,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.46](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.45...@{symbol}/delight-charts@0.1.46) (2023-03-27)
+## [0.1.46](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.45...@dx/delight-charts@0.1.46) (2023-03-27)
 
 
 ### Features
@@ -630,7 +630,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.45](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.44...@{symbol}/delight-charts@0.1.45) (2023-03-21)
+## [0.1.45](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.44...@dx/delight-charts@0.1.45) (2023-03-21)
 
 
 ### Features
@@ -641,7 +641,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.44](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.43...@{symbol}/delight-charts@0.1.44) (2023-03-14)
+## [0.1.44](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.43...@dx/delight-charts@0.1.44) (2023-03-14)
 
 
 ### Features
@@ -652,7 +652,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.43](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.42...@{symbol}/delight-charts@0.1.43) (2023-03-08)
+## [0.1.43](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.42...@dx/delight-charts@0.1.43) (2023-03-08)
 
 
 ### Bug Fixes
@@ -663,7 +663,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.42](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.41...@{symbol}/delight-charts@0.1.42) (2023-03-01)
+## [0.1.42](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.41...@dx/delight-charts@0.1.42) (2023-03-01)
 
 
 ### Bug Fixes
@@ -674,7 +674,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.41](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.40...@{symbol}/delight-charts@0.1.41) (2023-02-23)
+## [0.1.41](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.40...@dx/delight-charts@0.1.41) (2023-02-23)
 
 
 ### Bug Fixes
@@ -696,7 +696,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.40](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.39...@{symbol}/delight-charts@0.1.40) (2023-02-17)
+## [0.1.40](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.39...@dx/delight-charts@0.1.40) (2023-02-17)
 
 
 ### Bug Fixes
@@ -707,7 +707,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.39](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.38...@{symbol}/delight-charts@0.1.39) (2023-02-14)
+## [0.1.39](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.38...@dx/delight-charts@0.1.39) (2023-02-14)
 
 
 ### Bug Fixes
@@ -718,7 +718,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.38](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.37...@{symbol}/delight-charts@0.1.38) (2023-02-10)
+## [0.1.38](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.37...@dx/delight-charts@0.1.38) (2023-02-10)
 
 
 ### Features
@@ -730,7 +730,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.37](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.36...@{symbol}/delight-charts@0.1.37) (2023-02-09)
+## [0.1.37](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.36...@dx/delight-charts@0.1.37) (2023-02-09)
 
 
 ### Bug Fixes
@@ -741,7 +741,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.36](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.34...@{symbol}/delight-charts@0.1.36) (2023-02-09)
+## [0.1.36](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.34...@dx/delight-charts@0.1.36) (2023-02-09)
 
 
 ### Bug Fixes
@@ -757,7 +757,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.35](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.34...@{symbol}/delight-charts@0.1.35) (2023-01-30)
+## [0.1.35](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.34...@dx/delight-charts@0.1.35) (2023-01-30)
 
 
 ### Features
@@ -768,7 +768,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.34](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.33...@{symbol}/delight-charts@0.1.34) (2023-01-29)
+## [0.1.34](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.33...@dx/delight-charts@0.1.34) (2023-01-29)
 
 
 ### Bug Fixes
@@ -779,7 +779,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.33](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.32...@{symbol}/delight-charts@0.1.33) (2023-01-14)
+## [0.1.33](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.32...@dx/delight-charts@0.1.33) (2023-01-14)
 
 
 ### Bug Fixes
@@ -790,7 +790,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.32](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.31...@{symbol}/delight-charts@0.1.32) (2023-01-13)
+## [0.1.32](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.31...@dx/delight-charts@0.1.32) (2023-01-13)
 
 
 ### Bug Fixes
@@ -801,7 +801,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.31](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.30...@{symbol}/delight-charts@0.1.31) (2023-01-11)
+## [0.1.31](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.30...@dx/delight-charts@0.1.31) (2023-01-11)
 
 
 ### Bug Fixes
@@ -812,7 +812,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.30](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.29...@{symbol}/delight-charts@0.1.30) (2023-01-11)
+## [0.1.30](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.29...@dx/delight-charts@0.1.30) (2023-01-11)
 
 
 ### Bug Fixes
@@ -823,7 +823,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.29](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.28...@{symbol}/delight-charts@0.1.29) (2023-01-10)
+## [0.1.29](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.28...@dx/delight-charts@0.1.29) (2023-01-10)
 
 
 ### Bug Fixes
@@ -834,7 +834,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.28](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.27...@{symbol}/delight-charts@0.1.28) (2023-01-09)
+## [0.1.28](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.27...@dx/delight-charts@0.1.28) (2023-01-09)
 
 
 ### Features
@@ -845,7 +845,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.27](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.26...@{symbol}/delight-charts@0.1.27) (2023-01-09)
+## [0.1.27](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.26...@dx/delight-charts@0.1.27) (2023-01-09)
 
 
 ### Bug Fixes
@@ -861,15 +861,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.26](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.25...@{symbol}/delight-charts@0.1.26) (2023-01-05)
+## [0.1.26](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.25...@dx/delight-charts@0.1.26) (2023-01-05)
 
-**Note:** Version bump only for package @{symbol}/delight-charts
-
-
+**Note:** Version bump only for package @dx/delight-charts
 
 
 
-## [0.1.25](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.24...@{symbol}/delight-charts@0.1.25) (2022-12-30)
+
+
+## [0.1.25](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.24...@dx/delight-charts@0.1.25) (2022-12-30)
 
 
 ### Bug Fixes
@@ -880,7 +880,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.24](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.23...@{symbol}/delight-charts@0.1.24) (2022-12-29)
+## [0.1.24](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.23...@dx/delight-charts@0.1.24) (2022-12-29)
 
 
 ### Features
@@ -891,7 +891,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.23](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.22...@{symbol}/delight-charts@0.1.23) (2022-12-28)
+## [0.1.23](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.22...@dx/delight-charts@0.1.23) (2022-12-28)
 
 
 ### Bug Fixes
@@ -912,7 +912,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.22](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.21...@{symbol}/delight-charts@0.1.22) (2022-12-27)
+## [0.1.22](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.21...@dx/delight-charts@0.1.22) (2022-12-27)
 
 
 ### Features
@@ -923,7 +923,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.21](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.20...@{symbol}/delight-charts@0.1.21) (2022-12-23)
+## [0.1.21](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.20...@dx/delight-charts@0.1.21) (2022-12-23)
 
 
 ### Features
@@ -938,7 +938,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.20](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.19...@{symbol}/delight-charts@0.1.20) (2022-12-19)
+## [0.1.20](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.19...@dx/delight-charts@0.1.20) (2022-12-19)
 
 
 ### Bug Fixes
@@ -976,7 +976,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.19](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.18...@{symbol}/delight-charts@0.1.19) (2022-12-19)
+## [0.1.19](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.18...@dx/delight-charts@0.1.19) (2022-12-19)
 
 
 ### Features
@@ -988,7 +988,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.18](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.17...@{symbol}/delight-charts@0.1.18) (2022-12-16)
+## [0.1.18](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.17...@dx/delight-charts@0.1.18) (2022-12-16)
 
 
 ### Bug Fixes
@@ -1004,7 +1004,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.17](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.16...@{symbol}/delight-charts@0.1.17) (2022-12-15)
+## [0.1.17](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.16...@dx/delight-charts@0.1.17) (2022-12-15)
 
 
 ### Features
@@ -1019,7 +1019,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.16](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.15...@{symbol}/delight-charts@0.1.16) (2022-12-13)
+## [0.1.16](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.15...@dx/delight-charts@0.1.16) (2022-12-13)
 
 
 ### Features
@@ -1030,7 +1030,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.15](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.14...@{symbol}/delight-charts@0.1.15) (2022-12-07)
+## [0.1.15](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.14...@dx/delight-charts@0.1.15) (2022-12-07)
 
 
 ### Bug Fixes
@@ -1046,7 +1046,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.14](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.13...@{symbol}/delight-charts@0.1.14) (2022-12-07)
+## [0.1.14](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.13...@dx/delight-charts@0.1.14) (2022-12-07)
 
 
 ### Features
@@ -1057,7 +1057,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.13](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.12...@{symbol}/delight-charts@0.1.13) (2022-11-25)
+## [0.1.13](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.12...@dx/delight-charts@0.1.13) (2022-11-25)
 
 
 ### Bug Fixes
@@ -1068,7 +1068,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.12](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.11...@{symbol}/delight-charts@0.1.12) (2022-11-24)
+## [0.1.12](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.11...@dx/delight-charts@0.1.12) (2022-11-24)
 
 
 ### Bug Fixes
@@ -1079,7 +1079,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.11](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.10...@{symbol}/delight-charts@0.1.11) (2022-11-23)
+## [0.1.11](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.10...@dx/delight-charts@0.1.11) (2022-11-23)
 
 
 ### Features
@@ -1090,7 +1090,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.10](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.9...@{symbol}/delight-charts@0.1.10) (2022-11-22)
+## [0.1.10](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.9...@dx/delight-charts@0.1.10) (2022-11-22)
 
 
 ### Bug Fixes
@@ -1101,7 +1101,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.9](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.8...@{symbol}/delight-charts@0.1.9) (2022-11-18)
+## [0.1.9](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.8...@dx/delight-charts@0.1.9) (2022-11-18)
 
 
 ### Reverts
@@ -1112,7 +1112,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.8](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.7...@{symbol}/delight-charts@0.1.8) (2022-11-17)
+## [0.1.8](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.7...@dx/delight-charts@0.1.8) (2022-11-17)
 
 
 ### Bug Fixes
@@ -1155,7 +1155,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.7](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.6...@{symbol}/delight-charts@0.1.7) (2022-11-17)
+## [0.1.7](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.6...@dx/delight-charts@0.1.7) (2022-11-17)
 
 
 ### Bug Fixes
@@ -1167,7 +1167,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.6](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.5...@{symbol}/delight-charts@0.1.6) (2022-11-15)
+## [0.1.6](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.5...@dx/delight-charts@0.1.6) (2022-11-15)
 
 
 ### Bug Fixes
@@ -1179,7 +1179,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.5](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.4...@{symbol}/delight-charts@0.1.5) (2022-11-15)
+## [0.1.5](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.4...@dx/delight-charts@0.1.5) (2022-11-15)
 
 
 ### Bug Fixes
@@ -1190,7 +1190,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.4](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.3...@{symbol}/delight-charts@0.1.4) (2022-11-15)
+## [0.1.4](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.3...@dx/delight-charts@0.1.4) (2022-11-15)
 
 
 ### Bug Fixes
@@ -1201,7 +1201,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.3](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.2...@{symbol}/delight-charts@0.1.3) (2022-11-11)
+## [0.1.3](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.2...@dx/delight-charts@0.1.3) (2022-11-11)
 
 
 ### Bug Fixes
@@ -1220,7 +1220,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.2](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.2-alpha.3...@{symbol}/delight-charts@0.1.2) (2022-11-08)
+## [0.1.2](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.2-alpha.3...@dx/delight-charts@0.1.2) (2022-11-08)
 
 
 ### Features
@@ -1232,7 +1232,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.2-alpha.3](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.2-alpha.2...@{symbol}/delight-charts@0.1.2-alpha.3) (2022-11-08)
+## [0.1.2-alpha.3](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.2-alpha.2...@dx/delight-charts@0.1.2-alpha.3) (2022-11-08)
 
 
 ### Features
@@ -1244,7 +1244,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.2-alpha.2](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.2-alpha.1...@{symbol}/delight-charts@0.1.2-alpha.2) (2022-11-01)
+## [0.1.2-alpha.2](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.2-alpha.1...@dx/delight-charts@0.1.2-alpha.2) (2022-11-01)
 
 
 ### Bug Fixes
@@ -1256,15 +1256,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.2-alpha.1](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.2-alpha.0...@{symbol}/delight-charts@0.1.2-alpha.1) (2022-10-28)
+## [0.1.2-alpha.1](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.2-alpha.0...@dx/delight-charts@0.1.2-alpha.1) (2022-10-28)
 
-**Note:** Version bump only for package @{symbol}/delight-charts
-
-
+**Note:** Version bump only for package @dx/delight-charts
 
 
 
-## [0.1.2-alpha.0](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.1...@{symbol}/delight-charts@0.1.2-alpha.0) (2022-10-28)
+
+
+## [0.1.2-alpha.0](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.1...@dx/delight-charts@0.1.2-alpha.0) (2022-10-28)
 
 
 ### Bug Fixes
@@ -1275,15 +1275,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.1](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.1-alpha.0...@{symbol}/delight-charts@0.1.1) (2022-10-28)
+## [0.1.1](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.1-alpha.0...@dx/delight-charts@0.1.1) (2022-10-28)
 
-**Note:** Version bump only for package @{symbol}/delight-charts
-
-
+**Note:** Version bump only for package @dx/delight-charts
 
 
 
-## [0.1.1-alpha.0](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.1.0...@{symbol}/delight-charts@0.1.1-alpha.0) (2022-10-27)
+
+
+## [0.1.1-alpha.0](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.1.0...@dx/delight-charts@0.1.1-alpha.0) (2022-10-27)
 
 
 ### Features
@@ -1294,7 +1294,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.1.0](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.0.2-alpha.33...@{symbol}/delight-charts@0.1.0) (2022-10-26)
+# [0.1.0](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.0.2-alpha.33...@dx/delight-charts@0.1.0) (2022-10-26)
 
 
 ### Bug Fixes
@@ -1319,7 +1319,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.0.2-alpha.33](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.0.2-alpha.32...@{symbol}/delight-charts@0.0.2-alpha.33) (2022-10-24)
+## [0.0.2-alpha.33](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.0.2-alpha.32...@dx/delight-charts@0.0.2-alpha.33) (2022-10-24)
 
 
 ### Features
@@ -1330,7 +1330,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.0.2-alpha.32](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.0.2-alpha.31...@{symbol}/delight-charts@0.0.2-alpha.32) (2022-10-24)
+## [0.0.2-alpha.32](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.0.2-alpha.31...@dx/delight-charts@0.0.2-alpha.32) (2022-10-24)
 
 
 ### Features
@@ -1341,7 +1341,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.0.2-alpha.31](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.0.2-alpha.30...@{symbol}/delight-charts@0.0.2-alpha.31) (2022-10-22)
+## [0.0.2-alpha.31](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.0.2-alpha.30...@dx/delight-charts@0.0.2-alpha.31) (2022-10-22)
 
 
 ### Bug Fixes
@@ -1353,7 +1353,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.0.2-alpha.30](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.0.2-alpha.29...@{symbol}/delight-charts@0.0.2-alpha.30) (2022-10-21)
+## [0.0.2-alpha.30](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.0.2-alpha.29...@dx/delight-charts@0.0.2-alpha.30) (2022-10-21)
 
 
 ### Features
@@ -1364,7 +1364,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.0.2-alpha.29](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.0.2-alpha.28...@{symbol}/delight-charts@0.0.2-alpha.29) (2022-10-20)
+## [0.0.2-alpha.29](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.0.2-alpha.28...@dx/delight-charts@0.0.2-alpha.29) (2022-10-20)
 
 
 ### Features
@@ -1375,7 +1375,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.0.2-alpha.28](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.0.2-alpha.27...@{symbol}/delight-charts@0.0.2-alpha.28) (2022-10-20)
+## [0.0.2-alpha.28](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.0.2-alpha.27...@dx/delight-charts@0.0.2-alpha.28) (2022-10-20)
 
 
 ### Bug Fixes
@@ -1391,7 +1391,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.0.2-alpha.27](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.0.2-alpha.26...@{symbol}/delight-charts@0.0.2-alpha.27) (2022-10-18)
+## [0.0.2-alpha.27](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.0.2-alpha.26...@dx/delight-charts@0.0.2-alpha.27) (2022-10-18)
 
 
 ### Features
@@ -1403,7 +1403,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.0.2-alpha.26](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.0.2-alpha.25...@{symbol}/delight-charts@0.0.2-alpha.26) (2022-10-13)
+## [0.0.2-alpha.26](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.0.2-alpha.25...@dx/delight-charts@0.0.2-alpha.26) (2022-10-13)
 
 
 ### Bug Fixes
@@ -1414,7 +1414,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.0.2-alpha.25](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.0.2-alpha.24...@{symbol}/delight-charts@0.0.2-alpha.25) (2022-10-12)
+## [0.0.2-alpha.25](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.0.2-alpha.24...@dx/delight-charts@0.0.2-alpha.25) (2022-10-12)
 
 
 ### Bug Fixes
@@ -1427,7 +1427,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.0.2-alpha.24](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.0.2-alpha.23...@{symbol}/delight-charts@0.0.2-alpha.24) (2022-10-11)
+## [0.0.2-alpha.24](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.0.2-alpha.23...@dx/delight-charts@0.0.2-alpha.24) (2022-10-11)
 
 
 ### Bug Fixes
@@ -1438,7 +1438,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.0.2-alpha.23](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@{symbol}/delight-charts@0.0.2-alpha.22...@{symbol}/delight-charts@0.0.2-alpha.23) (2022-10-11)
+## [0.0.2-alpha.23](https://code.devops.justdev.com/fe/infra/delight-charts/compare/@dx/delight-charts@0.0.2-alpha.22...@dx/delight-charts@0.0.2-alpha.23) (2022-10-11)
 
 
 ### Features

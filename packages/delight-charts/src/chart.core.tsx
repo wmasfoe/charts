@@ -880,6 +880,7 @@ export function generateChart(name: string, getChartOptions: GetChartOptions, op
       })
 
       return () => <>
+      {props.afterConfig}
         <div style={containerStyle.value} className={props.cssClass}>
           <DrillBreadcrumb
             style={{ display: props?.drillBreadcrumbConfig?.isShowDrillBreadcrumb ? '' : 'none' }}

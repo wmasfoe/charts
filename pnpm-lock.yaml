@@ -32,10 +32,10 @@ importers:
       '@vue/compiler-sfc':
         specifier: ^3.2.37
         version: 3.4.37
-      '@{symbol}/delight-charts':
+      '@dx/delight-charts':
         specifier: workspace:*
         version: link:packages/delight-charts
-      '@{symbol}/delight-charts-mobile':
+      '@dx/delight-charts-mobile':
         specifier: workspace:*
         version: link:packages/delight-charts-mobile
       autoprefixer:
@@ -143,7 +143,7 @@ importers:
       '@vueuse/core':
         specifier: ^9.1.1
         version: 9.13.0(vue@3.4.37(typescript@4.9.5))
-      '@{symbol}/delight-charts':
+      '@dx/delight-charts':
         specifier: workspace:*
         version: link:../packages/delight-charts
       body-scroll-lock:
@@ -267,7 +267,7 @@ importers:
       '@vueuse/core':
         specifier: ^9.1.1
         version: 9.13.0(vue@3.4.37(typescript@4.9.5))
-      '@{symbol}/delight-charts-mobile':
+      '@dx/delight-charts-mobile':
         specifier: workspace:*
         version: link:../packages/delight-charts-mobile
       body-scroll-lock:

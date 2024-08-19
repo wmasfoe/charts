@@ -1,5 +1,5 @@
 {
-  "name": "@{symbol}/delight-charts",
+  "name": "@dx/delight-charts",
   "version": "0.1.97",
   "main": "dist/delight-charts.umd.js",
   "types": "dist/index.d.ts",

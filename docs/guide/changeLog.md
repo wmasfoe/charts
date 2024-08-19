@@ -9,7 +9,7 @@ Delight Charts 发版严格遵循 <a href="https://semver.org/lang/zh-CN/">Seman
 先行版本号及版本编译信息可以加到“主版本号.次版本号.修订号”的后面，作为延伸。
 
 ## [0.1.97] (2024-01-23)
-* 🐞 修改peerDependencies中@{symbol}/delight>=>=0.1.37 [26dc64bb](https://code.devops.justdev.com/fe/infra/delight-charts/-/commit/26dc64bb00ba55011bf0fdd171fcb536c6d8e818)
+* 🐞 修改peerDependencies中@dx/delight>=>=0.1.37 [26dc64bb](https://code.devops.justdev.com/fe/infra/delight-charts/-/commit/26dc64bb00ba55011bf0fdd171fcb536c6d8e818)
 
 ## [0.1.96] (2024-01-17)
 * 🌟 复杂指标卡新增`headRight`插槽和detailList下的`tips`属性 [15e1f6f2](https://code.devops.justdev.com/fe/infra/delight-charts/-/commit/15e1f6f2e53950722849f87f9f56a75d25135411)

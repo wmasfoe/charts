@@ -117,7 +117,7 @@
 </template>
 <script lang="ts" setup>
   import { defineProps, computed, toRefs } from 'vue'
-  // import Tooltip from "@{symbol}/delight/components/Popover/Tooltip";
+  // import Tooltip from "@dx/delight/components/Popover/Tooltip";
   import Tags from './Tags.vue'
   import { StatisticCardRate, StatisticCardConfig, StatisticCardData } from '../../../const/interface/statistic-card'
   import "./popover.css";

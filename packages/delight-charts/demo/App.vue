@@ -13,12 +13,15 @@
   </StatisticCard>
 
   <BubbleDemo />
+
+  <LineDemo />
 </template>
 
 <script lang="ts" setup>
 import { ref, onMounted, computed } from 'vue'
 import { StatisticCard } from '../src/index.ts'
 import BubbleDemo from './components/BubbleDemo.vue'
+import LineDemo from './components/LineDemo.vue'
 
 const chartConfig = ref({
   multiple: false,

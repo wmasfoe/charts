@@ -42,6 +42,7 @@
     "numerify": "^1.2.9"
   },
   "devDependencies": {
+    "@babel/parser": "^7.25.3",
     "@babel/plugin-transform-react-jsx": "^7.22.15",
     "lodash": "^4.17.21",
     "typescript": "^4.5.2",

@@ -225,7 +225,10 @@ export function generateChart(name: string, getChartOptions: GetChartOptions, op
       const isFirstRender = ref(true);
       const emits = defineEmits(['ready', 'ready-first', 'legendSelectChanged', 'selectMenu']);
       const isDataEmpty = computed<boolean>(
-        () => !isDefaultDataEmptyChart.value && !props?.chartData?.length && !props.chartConfig?.series?.length
+        () => {
+          console.log(props)
+          return !isDefaultDataEmptyChart.value && !props?.chartData?.length && !props.chartConfig?.series?.length
+        }
       );
       const bubbleLabelMap = new Map();
       const isDefaultDataEmptyChart = computed(() => (['Radar', 'Map', 'Sankey'].includes(name) || name === 'Chart' && ['radar', 'map', 'sankey'].includes(props?.chartConfig?.type)))
@@ -880,7 +883,6 @@ export function generateChart(name: string, getChartOptions: GetChartOptions, op
       })
 
       return () => <>
-      {props.afterConfig}
         <div style={containerStyle.value} className={props.cssClass}>
           <DrillBreadcrumb
             style={{ display: props?.drillBreadcrumbConfig?.isShowDrillBreadcrumb ? '' : 'none' }}

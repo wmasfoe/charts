@@ -32,3 +32,5 @@ package-lock.json
 
 docs/.vitepress/.temp/
 docs/.vitepress/cache/deps/
+
+old-pc-docs

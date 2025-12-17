@@ -23,6 +23,17 @@ export function handleImportMaps(script: string) {
           importMaps[`${key}`] = value;
         }
 
+        // 处理命名导出 { Line, Bar } 的情况
+        if (p1.trim().startsWith('{') && p1.trim().endsWith('}')) {
+          const namedImports = p1.trim().slice(1, -1).split(',').map((item: string) => item.trim());
+          const assignments = namedImports.map((importName: string) => {
+            const [importedName, localName] = importName.split(' as ').map((s: string) => s.trim());
+            const finalName = localName || importedName;
+            return `const ${finalName} = importMaps['${p2}']['${importedName}']`;
+          });
+          return assignments.join(';\n');
+        }
+
         return `const ${p1} = importMaps['${p2}']`;
       } else {
         return match;
@@ -34,7 +45,7 @@ export function handleImportMaps(script: string) {
 
 function handleDefault(script: string) {
   return script
-    .replace(/import(.*?)from\s+['"]vue['"]/g, (match, p1) => {
+    .replace(/import(.*?)from\s+['"]vue['"]/g, (_match, p1) => {
       p1 = p1.replace(/\sas\s/g, ":");
       return `const ${p1} = _vue`;
     })

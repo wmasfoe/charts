@@ -5,7 +5,7 @@ import vueJsx from '@vitejs/plugin-vue-jsx' // 添加这一句
 // @ts-ignore
 import type {Alias} from 'vite'
 import path from 'path'
-import markdownPlugin from './theme/plugins/markdownPlugin'
+import { markDownPlugin as markdownPlugin } from './theme/plugins/markdownPlugin'
 
 const deps = ['@vueuse/core', 'body-scroll-lock']
 export const projRoot = path.resolve(__dirname, '..', '..')
